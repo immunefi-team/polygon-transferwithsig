@@ -1,7 +1,7 @@
 # This project demonstrates a PoC for the Polygon lack of balance check vulnerability
 
 
-[Polygon Lack Of Balance Check Bugfix Review](https://medium.com/immunefi/polygon-lack-of-balance-check-bugfix-postmortem-2-2m-bounty-64ec66c24c7d)
+[Polygon Lack Of Balance Check Bugfix Review](https://medium.com/immunefi/polygon-lack-of-balance-check-bugfix-postmortem-2-2m-bounty-64ec66c24c7d)  
 [Bug Bounty Reports Explained](https://www.youtube.com/watch?v=wc4jARFuVYg&ab_channel=BugBountyReportsExplained)
 
 
