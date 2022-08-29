@@ -10,7 +10,7 @@ This example uses `MRC20` as target vulnerable token as the victim which contain
 The vulnerability was fixed on 22156659 block on December 5, 2021 , The average price of matic was around 1.53$
 
 ```
-Estimated funds at risk at : 9260856583 MATIC * 1.53 (AVERAGE PRICE on 5th Dec) = 14169110572 USD.
+Estimated funds at risk at : 9260856583 MATIC * 2.29$ (AVERAGE PRICE on 4th Dec) = 21207361575.1 USD.
 ```
 
 a prequisite of running this PoC is setting the `POLYGON_ALCHEMY_API_KEY` environment variable.
